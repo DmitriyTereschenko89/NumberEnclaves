@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberEnclaves", "NumberEnclaves.csproj", "{D09A6A58-EFEC-422A-8493-2377F8F4704F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D09A6A58-EFEC-422A-8493-2377F8F4704F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D09A6A58-EFEC-422A-8493-2377F8F4704F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D09A6A58-EFEC-422A-8493-2377F8F4704F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D09A6A58-EFEC-422A-8493-2377F8F4704F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11BA36A5-781C-432A-8FB1-7FE5D81DF39F}
+	EndGlobalSection
+EndGlobal
